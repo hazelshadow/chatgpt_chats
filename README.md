@@ -1,4 +1,6 @@
 # ChatGPT Chats
 ChatGPT Chats Used To Generate Stories
 
-- [dummy](dummy.md)
+| Article Link | Chat Link |
+|---|---|
+|  | [tutor](2023-05-05-1731-tutor.md) |
